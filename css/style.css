@@ -1,0 +1,113 @@
+#nav{
+    width:12%;
+    height:850px;
+  /*   border: 1px solid #000; */
+    float:left;
+  }
+  
+  #wiki{
+    width:140px;
+    padding-left:10px;
+  }
+  
+  #topic{
+    padding:20px;
+    width:84%;
+    height:223
+      0px;
+    border: 1px solid turquoise;
+    float:right;
+  }
+  
+  #content-box{
+    float: left;
+    width:300px;
+    border:1px solid #000;
+    background-color:#eee;
+  }
+  
+  #content-box h3{
+    text-align:center;
+  }
+  
+  #sidebar{
+    float: right;
+    width: 250px;
+    height: 550px;
+    background-color: #eee;
+    border: 1px solid #000;
+    padding: 14px;
+  }
+  
+  #sidebar h4{
+    text-align: center;
+    background-color: lightgreen;
+  }
+  
+  #sidebar img{
+    width: 100%;
+  }
+  
+  #sidebar p, #sidebar a{
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  #sidebar ul{
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  .eco{
+    padding-top: 30px;
+    clear:both;
+  }
+  
+  
+  ul{
+    padding: 0;
+  }
+  
+  ul a{
+    list-style:none;
+    text-decoration:none;
+    color:blue;
+  }
+  
+  ul li{
+    padding-top:4px;
+    padding-left:15px;
+  }
+  
+  ul a:hover{
+    text-decoration:underline;
+  }
+  
+  .navline{
+    width:120px;
+    margin:0;
+    margin-left:10px;
+    margin-top:10px;
+  }
+  
+  #content-box ul li{
+    list-style:lower-alpha;
+    margin-left: 20px;
+  }
+  
+  ol a{
+    color: blue;
+    text-decoration:none;
+  }
+  
+  ol a:hover{
+    text-decoration:underline;
+  }
+  
+  ol li{
+    padding: 2px;
+  }
+  
+  
+  
+  
